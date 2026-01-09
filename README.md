@@ -356,7 +356,7 @@ Bu proje eğitim amaçlı geliştirilmiştir.
 ## 📞 Destek
 
 Sorularınız veya destek ihtiyacınız için:
-- **E-posta:** ibrahimunalofficial@gmail.com
+- **E-posta:** ozdensolutions@icloud.com
 - **Serial Monitor:** Hata ayıklama için Serial Monitor'ü kullanın (115200 baud)
 
 ## 🙏 Teşekkürler
