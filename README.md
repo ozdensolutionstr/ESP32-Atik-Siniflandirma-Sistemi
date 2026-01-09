@@ -4,8 +4,8 @@
 
 Bu proje, ESP32 A1 kartı kullanarak atık türlerini otomatik olarak sınıflandıran akıllı bir geri dönüşüm sistemidir. Sistem, Google Gemini AI API'sini kullanarak görüntü analizi yapar ve kullanıcılara puan sistemi ile geri dönüşüm teşviki sağlar.
 
-**Geliştirici:** İbrahim Ünal  
-**İletişim:** ibrahimunalofficial@gmail.com
+**Geliştirici:** Özden Solutions
+**İletişim:** ozdensolutions@icloud.com
 
 ## ✨ Özellikler
 
