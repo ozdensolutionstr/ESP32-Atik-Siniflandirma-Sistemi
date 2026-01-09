@@ -338,7 +338,7 @@ Bu proje eğitim amaçlı geliştirilmiştir.
 ## 👥 Geliştirici
 
 **İbrahim Ünal**
-- E-posta: ibrahimunalofficial@gmail.com
+- E-posta: ozdensolutions@icloud.com
 
 ## 🔄 Güncellemeler
 
