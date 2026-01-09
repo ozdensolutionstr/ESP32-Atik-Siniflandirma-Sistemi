@@ -19,11 +19,11 @@
 #include <base64.h>
 
 // Wi-Fi ayarları
-const char* ssid = "Arda";
-const char* password = "chaitealatte1";
+const char* ssid = "WIFI_SSID_BURAYA";
+const char* password = "WIFI_SIFRE_BURAYA";
 
 // Gemini API ayarları
-const char* geminiApiKey = "AIzaSyAwN1CdoEAurOo_rfJ4ugubMkicn1ufwnE";
+const char* geminiApiKey = "API_ANAHTARINIZ_BURAYA";
 const char* geminiHost = "generativelanguage.googleapis.com";
 const int geminiPort = 443;
 
