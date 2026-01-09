@@ -1,0 +1,30 @@
+# Arduino
+*.hex
+*.elf
+*.eep
+*.bin
+*.map
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build
+build/
+*.o
+*.d
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# Sensitive data (API keys, passwords)
+# Not: Bu dosyalar zaten kodda var, ama production'da .env kullanılmalı
+
